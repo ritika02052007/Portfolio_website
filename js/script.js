@@ -82,7 +82,7 @@ const projectIcons = ["🛰️", "🛒", "🎓", "📊"];
 // Sorted by stars (highest first).
 const repos = [
   
-  ["internship-portal", "JavaScript", "College internship portal with student applications and admin management.", 35, 15],
+  ["internship-portal", "JavaScript", "College internship portal with student applications and admin management.", "", null],
   
   ["python", "Python", "", 11, null],
   ["mysql-project", "MySQL", "", 10, null],
