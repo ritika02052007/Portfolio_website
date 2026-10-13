@@ -89,32 +89,11 @@ A personal website showcasing my skills, projects, and developer journey.
 </td>
 <td width="50%">
 
-### 🛍️ E-Commerce Website
 
-A shopping website project focused on user interface design and interactive web experiences.
 
-**Tech:** HTML, CSS, JavaScript
 
-<a href="https://github.com/ritika02052007?tab=repositories">
-<img src="https://img.shields.io/badge/View%20Code-GitHub-181717?style=for-the-badge&logo=github" />
-</a>
-
-</td>
-</tr>
 <tr>
-<td width="50%">
 
-### 🎓 Education Website Clone
-
-A frontend project inspired by an online learning platform, focusing on layout and responsive design.
-
-**Tech:** HTML, CSS, JavaScript
-
-<a href="https://github.com/ritika02052007?tab=repositories">
-<img src="https://img.shields.io/badge/View%20Code-GitHub-181717?style=for-the-badge&logo=github" />
-</a>
-
-</td>
 <td width="50%">
 
 ### 🧩 Mini JavaScript Projects
