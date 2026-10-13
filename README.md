@@ -87,9 +87,6 @@ A personal website showcasing my skills, projects, and developer journey.
 </a>
 
 </td>
-<td width="50%">
-
-
 
 
 <tr>
